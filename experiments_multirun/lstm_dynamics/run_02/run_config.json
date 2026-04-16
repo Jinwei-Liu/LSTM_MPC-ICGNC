@@ -1,0 +1,7 @@
+{
+  "model": "lstm_dynamics",
+  "label": "LSTM+Dynamics",
+  "run_index": 2,
+  "seed": 244,
+  "device": "cuda"
+}

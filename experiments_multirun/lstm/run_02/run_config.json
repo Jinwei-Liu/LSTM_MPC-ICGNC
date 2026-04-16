@@ -1,0 +1,7 @@
+{
+  "model": "lstm",
+  "label": "LSTM",
+  "run_index": 2,
+  "seed": 44,
+  "device": "cuda"
+}

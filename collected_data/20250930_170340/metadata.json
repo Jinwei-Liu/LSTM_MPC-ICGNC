@@ -1,0 +1,59 @@
+{
+  "session_id": "20250930_170340",
+  "map": "Town02",
+  "vehicle": "vehicle.tesla.model3",
+  "weather": "ClearNoon",
+  "frequency": 20,
+  "start_time": "2025-09-30T17:04:12.746552",
+  "save_options": {
+    "save_sensor_h5": false,
+    "save_camera_h5": false
+  },
+  "camera_config": {
+    "main_camera": {
+      "width": 1920,
+      "height": 1080,
+      "fov": 90,
+      "position": [
+        1.6,
+        0.0,
+        1.7
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ]
+    },
+    "left_mirror_camera": {
+      "width": 320,
+      "height": 240,
+      "fov": 70,
+      "position": [
+        0.5,
+        -1.8,
+        1.5
+      ],
+      "rotation": [
+        0,
+        -160,
+        0
+      ]
+    },
+    "right_mirror_camera": {
+      "width": 320,
+      "height": 240,
+      "fov": 70,
+      "position": [
+        0.5,
+        1.8,
+        1.5
+      ],
+      "rotation": [
+        0,
+        160,
+        0
+      ]
+    }
+  }
+}

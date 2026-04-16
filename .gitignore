@@ -1,0 +1,4 @@
+.conda-envs/
+__pycache__/
+.vscode/
+.codex

@@ -1,0 +1,7 @@
+{
+  "model": "lstm_mpc",
+  "label": "LSTM+MPC",
+  "run_index": 3,
+  "seed": 145,
+  "device": "cuda"
+}

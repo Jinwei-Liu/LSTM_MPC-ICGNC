@@ -1,0 +1,17 @@
+{
+  "device": "cuda",
+  "repeats": 3,
+  "epochs": 100,
+  "batch_size": 128,
+  "lr": 0.001,
+  "hidden_dim": 64,
+  "num_layers": 1,
+  "patience": 15,
+  "downsample_factor": 10,
+  "num_targets": 10,
+  "lqr_iter": 10,
+  "seed_base": 42,
+  "data_folder": "vehicle_datasets",
+  "train_file": "vehicle_train_dataset.pkl",
+  "val_file": "vehicle_test_dataset.pkl"
+}
